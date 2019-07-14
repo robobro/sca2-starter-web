@@ -1,8 +1,8 @@
-# DEV React-Apollo Starter App
+# SCA 2 React-Apollo Starter App
 
 **NOTE: Update the title and provide a description here for your new project once started**
 
-This is a repository with starter code for new frontend web projects at DEV.
+This is a repository with starter code for new frontend web projects for the SCA 2. Created by HSA DEV.
 
 ## Starting a New Project
 
@@ -11,7 +11,7 @@ This is a repository with starter code for new frontend web projects at DEV.
 Run these commands to start a new project built off of this repository.
 
 ```bash
-$ git clone https://github.com/hsadev/react-frontend-starter.git <YOUR_PROJECT_NAME> && cd <YOUR_PROJECT_NAME> # clone repo 
+$ git clone https://github.com/hsadev/sca2-starter-web.git <YOUR_PROJECT_NAME> && cd <YOUR_PROJECT_NAME> # clone repo 
 $ rm -rf .git # delete original git history
 $ git init # create new git repository
 $ git remote add origin <YOUR_PROJECT_GIT_REPOSITORY> # add remote for github repo
